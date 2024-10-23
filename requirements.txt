@@ -7,7 +7,6 @@ plotly
 pymysql
 streamlit-tags
 Pillow
-youtube-dl
+yt-dlp
 nltk
-pdfminer3
 spacy==2.3.5
